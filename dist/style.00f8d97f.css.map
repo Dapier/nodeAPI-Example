@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,EACI,qBACJ,CAEA,KACI,YAAa,CACb,mDAEJ","file":"style.00f8d97f.css","sourceRoot":"..","sourcesContent":["*{\r\n    box-sizing: border-box;\r\n}\r\n\r\nbody{\r\n    padding: 10px;\r\n    background-color: #f1f1f1f1\r\n    ;\r\n}"]}
